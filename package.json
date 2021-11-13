@@ -1,0 +1,24 @@
+{
+  "name": "api-grpc-demo",
+  "version": "1.0.0",
+  "description": "A sample gRPC API built on node.js using the Mali framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mitulashah/api-grpc-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mitulashah/api-grpc-demo/issues"
+  },
+  "homepage": "https://github.com/mitulashah/api-grpc-demo#readme",
+  "dependencies": {
+    "@grpc/grpc-js": "^1.4.4",
+    "@grpc/proto-loader": "^0.6.6",
+    "mali": "^0.46.0"
+  }
+}
