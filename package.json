@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/mitulashah/api-grpc-demo#readme",
   "dependencies": {
-    "@grpc/grpc-js": "^1.4.4",
+    "@grpc/grpc-js": "^1.8.22",
     "@grpc/proto-loader": "^0.6.6",
     "mali": "^0.46.0"
   }
